@@ -1,0 +1,57 @@
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\bin\Debug\net6.0\appsettings.json
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.staticwebassets.runtime.json
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.exe
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.deps.json
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.runtimeconfig.json
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.dll
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.pdb
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.AssemblyReference.cache
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfoInputs.cache
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfo.cs
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cache
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cs
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\bundle\MyCoreApp.styles.css
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\projectbundle\MyCoreApp.bundle.scp.css
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.dll
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\refint\MyCoreApp.dll
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.pdb
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.genruntimeconfig.cache
+C:\Users\rashid.129\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net6.0\ref\MyCoreApp.dll
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\bin\Debug\net6.0\appsettings.json
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.staticwebassets.runtime.json
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.exe
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.deps.json
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.runtimeconfig.json
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.dll
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.pdb
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.AssemblyReference.cache
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfoInputs.cache
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfo.cs
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cache
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cs
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets\msbuild.MyCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MyCoreApp.props
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyCoreApp.props
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyCoreApp.props
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\bundle\MyCoreApp.styles.css
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\projectbundle\MyCoreApp.bundle.scp.css
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.dll
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\refint\MyCoreApp.dll
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.pdb
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.genruntimeconfig.cache
+C:\Users\dh11a\Music\selenium files\MyCoreApp\MyCoreApp\MyCoreApp\obj\Debug\net6.0\ref\MyCoreApp.dll
